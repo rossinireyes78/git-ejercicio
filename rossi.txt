@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 hola ejercicio git
 estamos modificando
 texto en master
+=======
+cambiando texto
+en branch1
+para el ejercio git.
+>>>>>>> origin/branch1
